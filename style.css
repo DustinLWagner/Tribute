@@ -1,37 +1,35 @@
+*{
+
+}
 body{
-
+    background-color:;
 }
 
-main{
-
-}
-
-h1{
-    
-}
-
-h3{
-
-}
-
-
-
-
-#main{
-
-}
 #title{
-
+    text-align: center;
+}
+#name{
+    font-family: Helvetica, sans-serif;
+    letter-spacing: -8pt;
+    font-size: 400%;
 
 }
-
 #real-name{
 
+    font-family: Helvetica;
+}
+#img-div{
 
 }
+#img{
 
-#img-div{
-    display:block;
-    height: 50px;
-    width: 50px;
+}
+#img-caption{
+
+}
+#tribute-info{
+
+}
+#tribute-linnk{
+
 }
