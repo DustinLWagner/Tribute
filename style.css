@@ -5,13 +5,11 @@ body{
 main{
 
 }
+
 h1{
     
-    
 }
-.h1{
-    font-family: 'Helvetica', sans-serif;
-}
+
 h3{
 
 }
@@ -30,4 +28,10 @@ h3{
 #real-name{
 
 
+}
+
+#img-div{
+    display:block;
+    height: 50px;
+    width: 50px;
 }
