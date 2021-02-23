@@ -6,11 +6,11 @@ body{
 }
 
 img{
-    justify-content: center;
+    display: block;
     width: auto;
     max-width: 100%;
-}
 
+}
 #title{
     text-align: center;
 }
@@ -21,21 +21,45 @@ img{
 }
 #real-name{
     font-family: Helvetica;
+    font-variant: small-caps;
 }
 #img-div{
     text-align: center;
     margin: auto;
     display: block;
-}
-#img{
 
+}
+#image{
+    text-align: center;
+    margin: auto;
+    display: block;
+    filter: drop-shadow(1px 15px 3px black);
 }
 #img-caption{
-
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-variant: small-caps;
 }
 #tribute-info{
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-variant: small-caps;
+    margin: auto;
+    padding: 25px 25px 25px 25px;
+}
+
+#discography{
+    align-content: center;
+}
+
+#ext-link{
+    text-align: center;
 
 }
-#tribute-linnk{
-
+#tribute-link{
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-variant: small-caps;
+    text-decoration-line: none;
+    color: black;
 }
